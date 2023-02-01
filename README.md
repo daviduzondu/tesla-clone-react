@@ -2,5 +2,5 @@
 
 ### Setting up
 - Clone the repository
-- run `npm start`
+- run `npm i`
 - After installing your dependencies, run `npm start`
